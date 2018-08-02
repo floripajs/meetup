@@ -23,7 +23,7 @@ Cada apresentação terá no máximo `10 minutos`.
   
 - Teremos um quadro ou uma lousa onde as pessoas que querem falar colocam seus nomes.  
   
-- Se o número de inscritos for maior que o de slots, será feito um `SORTEIO`. Poderá também haver acordos e/ou desistências para que chegue ao um número ideal de apresentações.
+- Se o número de inscritos for maior que o de slots, será feito um `SORTEIO`. Poderá também haver acordos e/ou desistências para que chegue a um número ideal de apresentações.
 
 - Assim que uma pessoa apresentar, logo em seguida já entra a outra... a ideia é ser algo bem dinâmico.
 
