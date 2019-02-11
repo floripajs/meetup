@@ -1,8 +1,7 @@
 <h1 align=center>
   <a href="http://floripajs.org" title="Floripa JS">
     <img alt="FloripaJS Logo" src="http://floripajs.org/assets/img/floripajs-logo.svg" width="250" height="240"/>
-    <br>
-  </a>
+  </a><br>
   FloripaJS Meetup
 </h1>
 
@@ -19,6 +18,7 @@
 * [Feedbacks](https://github.com/floripajs/feedbacks)
 * [Twitter](https://twitter.com/FloripaJS)
 * [Grupo no Facebook](https://www.facebook.com/groups/floripajs)
+* [Slack](http://slack.floripajs.org) - canal #meetup
 
 ## Como contribuir com o meetup
 
