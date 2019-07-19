@@ -4,7 +4,7 @@
 Esse formato é bem parecido com o formato que está descrito no site [hackandtell.org](https://hackandtell.org).
 
 ## Como funciona?
-Nos meetups que tiverem o `Hack n' Tell` será destinado alguns slots (normalmente de 3 a 5) para que as pessoas possam apresentar alguma coisa. Essa apresentação pode ser:
+Nos meetups que tiverem o `Hack n' Tell` será destinado alguns slots (normalmente de 3 a 6) para que as pessoas possam apresentar alguma coisa. Essa apresentação pode ser:
 
 - um site
 - um projeto open-source
