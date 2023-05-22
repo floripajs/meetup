@@ -1,6 +1,6 @@
 <h1 align=center>
   <a href="http://floripajs.org" title="Floripa JS">
-    <img alt="FloripaJS Logo" src="http://floripajs.org/assets/img/floripajs-logo.svg" width="250" height="240"/>
+    <img alt="FloripaJS Logo" src="http://floripajs.org/assets/img/logo.svg" width="150" />
   </a><br>
   FloripaJS Meetup
 </h1>
